@@ -50,17 +50,17 @@
 
 <span style="font-weight:bold;">1、安装VMware，使用VMware创建虚拟机并安装Ubuntu 24.04.3 LTS操作系统</span>
 
-（1）前往[VMware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)官网下载VMware workstation（需要注册博通账号）![image-20251020221320851](C:\Users\Ancuo\AppData\Roaming\Typora\typora-user-images\image-20251020221320851.png)
+（1）前往[VMware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)官网下载VMware workstation（需要注册博通账号）![VMware 安装截图](./NCUSCC2025秋季考核 - C语言试题实验报告.assets/image-20251020221320851.png)
 
 （2）前往[Ubuntu](https://cn.ubuntu.com/download/desktop)官网下载Ubuntu 24.04.3 LTS操作系统镜像
 
-![image-20251020221515531](C:\Users\Ancuo\AppData\Roaming\Typora\typora-user-images\image-20251020221515531.png)
+![Ubuntu 镜像下载](./NCUSCC2025秋季考核 - C语言试题实验报告.assets/image-20251020221515531.png)
 
 （3）在VMware中新建虚拟机，跟随引导安装下载好的Ubuntu 24.04.3 LTS.iso，进入虚拟机后点击桌面的Ubuntu 24.04.3 LTS进行系统安装
 
 <span style="font-weight:bold;">2、配置网络，在VMware中点击编辑->虚拟网络编辑器，选择NAT模式，让虚拟机通过宿主机的网络对外访问</span>
 
-![image-20251020222322867](C:\Users\Ancuo\AppData\Roaming\Typora\typora-user-images\image-20251020222322867.png)
+![网络配置截图](./NCUSCC2025秋季考核 - C语言试题实验报告.assets/image-20251020222322867.png)
 
 <span style="font-weight:bold;">3、安装gcc</span>
 
